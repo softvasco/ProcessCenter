@@ -1,0 +1,6 @@
+@ProcessCenter_HostAddress = http://localhost:5089
+
+GET {{ProcessCenter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
